@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(to bottom, rgb(44, 43, 43), #080808),url("Image/background.webp");
+    background-image: url("Image/background.webp");
 
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; 
