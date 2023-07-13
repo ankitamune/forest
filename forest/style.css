@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(to bottom, rgb(44, 43, 43), #080808),url("Image/background.webp");
+
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+
+    /* background: transparent; */
+
+}
+img{
+    margin:  80px 550px 0px 550px ;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 50%;
+}
+.heading{
+    color: white;
+    text-align: center;
+    font-size: 4rem;
+    font-family: serif;
+    /* font-weight: 50; */
+}
+button{
+    width: 250px;
+    height: 60px;
+    background: transparent;
+    color: white;
+    border: solid  red 2px ;
+    border-radius: 50px;
+    font-family: "Gill Sans", sans-serif;
+    letter-spacing: 2px;
+}
